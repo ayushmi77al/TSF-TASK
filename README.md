@@ -11,3 +11,7 @@ predict the right class accordingly.
 ### Task - [Color Identification in Images](https://github.com/ayushmi77al/TSF-TASK/blob/main/ColorIdentificationInImage/colordetection.py)
 * Implement an image color detector which identifies all the colors in an
 image or video.
+
+### Task - [Optical Character Recognition (ORC)](https://github.com/ayushmi77al/TSF-TASK/blob/main/OCR/OCR.py)
+* Character detector which extracts printed or handwritten text from an
+image or video.
